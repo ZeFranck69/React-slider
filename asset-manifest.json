@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-slider/static/css/main.2fd53cc4.chunk.css",
+    "main.js": "/React-slider/static/js/main.221a7166.chunk.js",
+    "main.js.map": "/React-slider/static/js/main.221a7166.chunk.js.map",
+    "runtime-main.js": "/React-slider/static/js/runtime-main.58f81db7.js",
+    "runtime-main.js.map": "/React-slider/static/js/runtime-main.58f81db7.js.map",
+    "static/js/2.8974b903.chunk.js": "/React-slider/static/js/2.8974b903.chunk.js",
+    "static/js/2.8974b903.chunk.js.map": "/React-slider/static/js/2.8974b903.chunk.js.map",
+    "index.html": "/React-slider/index.html",
+    "static/css/main.2fd53cc4.chunk.css.map": "/React-slider/static/css/main.2fd53cc4.chunk.css.map",
+    "static/js/2.8974b903.chunk.js.LICENSE.txt": "/React-slider/static/js/2.8974b903.chunk.js.LICENSE.txt",
+    "static/media/left-arrow.da21225b.svg": "/React-slider/static/media/left-arrow.da21225b.svg",
+    "static/media/right-arrow.d19ce8f8.svg": "/React-slider/static/media/right-arrow.d19ce8f8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58f81db7.js",
+    "static/js/2.8974b903.chunk.js",
+    "static/css/main.2fd53cc4.chunk.css",
+    "static/js/main.221a7166.chunk.js"
+  ]
+}
